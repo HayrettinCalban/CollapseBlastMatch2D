@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6b2cdd64cd27840ac44aedef89f9f0, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: GameScripts::GameSettings
+  fallSpeed: 1.1
+  waitShort: 0.1
+  waitShuffle: 0.5
+  waitShuffleScale: 0.4
+  waitShufflePunch: 0.2
